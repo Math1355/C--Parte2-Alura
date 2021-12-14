@@ -1,0 +1,16 @@
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\bin\Debug\net5.0\04-ByteBank.exe
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\bin\Debug\net5.0\04-ByteBank.deps.json
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\bin\Debug\net5.0\04-ByteBank.runtimeconfig.json
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\bin\Debug\net5.0\04-ByteBank.runtimeconfig.dev.json
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\bin\Debug\net5.0\04-ByteBank.dll
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\bin\Debug\net5.0\ref\04-ByteBank.dll
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\bin\Debug\net5.0\04-ByteBank.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\obj\Debug\net5.0\04-ByteBank.csproj.AssemblyReference.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\obj\Debug\net5.0\04-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\obj\Debug\net5.0\04-ByteBank.AssemblyInfoInputs.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\obj\Debug\net5.0\04-ByteBank.AssemblyInfo.cs
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\obj\Debug\net5.0\04-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\obj\Debug\net5.0\04-ByteBank.dll
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\obj\Debug\net5.0\ref\04-ByteBank.dll
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\obj\Debug\net5.0\04-ByteBank.pdb
+C:\Users\manij\OneDrive\Documentos\programação\C#\Alura\csharp-parte-2-introdução-a-orientação-a-objetos\ByteBank\04-ByteBank\obj\Debug\net5.0\04-ByteBank.genruntimeconfig.cache
